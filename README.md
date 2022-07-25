@@ -7,8 +7,8 @@ and a bunch of others to fix images and fine-tune syntax highlighting.
 ## How to install
 1. Install [Tampermonkey](https://www.tampermonkey.net/) or any compatible userscript manager
 2. Import the userscript either by
-  - opening [cb-ide-darkmode.js](cb-ide-darkmode.js) and copypasting it into a new userscript, or
-  - importing the raw url [https://raw.githubusercontent.com/sumaeq/cb-ide-darkmode/main/cb-ide-darkmode.js](https://raw.githubusercontent.com/sumaeq/cb-ide-darkmode/main/cb-ide-darkmode.js)
+    - opening [cb-ide-darkmode.js](cb-ide-darkmode.js) and copypasting it into a new userscript, or
+    - importing the raw url [https://raw.githubusercontent.com/sumaeq/cb-ide-darkmode/main/cb-ide-darkmode.js](https://raw.githubusercontent.com/sumaeq/cb-ide-darkmode/main/cb-ide-darkmode.js)
 
 
 ## Known issues and drawbacks
