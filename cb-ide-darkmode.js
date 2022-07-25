@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         App IDE Dark Mode ("very hacky edition")
-// @version      0.1.0
+// @version      0.1.1
 // @description  Just a quick and dirty stylesheet change to create a dark mode for the app IDE
 // @author       Suma
 // @match        https://devportal.cb.dev/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=cb.dev
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/sumaeq/cb-ide-darkmode/main/cb-ide-darkmode.js
+// @downloadURL  https://raw.githubusercontent.com/sumaeq/cb-ide-darkmode/main/cb-ide-darkmode.js
 // ==/UserScript==
 
 (() => {
@@ -24,6 +26,6 @@
     pre {
         filter: invert(100%) hue-rotate(180deg) !important;
     }
-    </style>`;
+</style>`;
 
 })();
